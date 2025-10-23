@@ -4,5 +4,8 @@
 .Ruserdata
 data/
 docs/
+olumide_data/
+*.png
+*.svg
 
 
